@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|g:\\d2d\\sem-6\\.net\\.net_all_github\\coffeeshop_create_webapi\\coffeeshop_all_create_webapi\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|g:\\d2d\\sem-6\\.net\\.net_all_github\\coffeeshop_create_webapi\\coffeeshop_all_create_webapi\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|g:\\d2d\\sem-6\\.net\\.net_all_github\\coffeeshop_create_webapi\\coffeeshop_all_create_webapi\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|g:\\d2d\\sem-6\\.net\\.net_all_github\\coffeeshop_create_webapi\\coffeeshop_all_create_webapi\\models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|solutionrelative:models\\orderdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|g:\\d2d\\sem-6\\.net\\.net_all_github\\coffeeshop_create_webapi\\coffeeshop_all_create_webapi\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|solutionrelative:models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|g:\\d2d\\sem-6\\.net\\.net_all_github\\coffeeshop_create_webapi\\coffeeshop_all_create_webapi\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|solutionrelative:models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|g:\\d2d\\sem-6\\.net\\.net_all_github\\coffeeshop_create_webapi\\coffeeshop_all_create_webapi\\models\\billsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052975E6-0107-4A0B-94A1-23776660E54A}|CoffeeShop_All_Create_WebAPI.csproj|solutionrelative:models\\billsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:53:09.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:51:17.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
+              "ToolTip": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:49:24.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailsModel.cs",
+              "DocumentMoniker": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\OrderDetailsModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetailsModel.cs",
+              "ToolTip": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\OrderDetailsModel.cs",
+              "RelativeToolTip": "Models\\OrderDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:47:37.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerModel.cs",
+              "ToolTip": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "Models\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:45:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "Models\\CityModel.cs",
+              "ToolTip": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\CityModel.cs",
+              "RelativeToolTip": "Models\\CityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:44:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillsModel.cs",
+              "DocumentMoniker": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\BillsModel.cs",
+              "RelativeDocumentMoniker": "Models\\BillsModel.cs",
+              "ToolTip": "G:\\D2D\\Sem-6\\.NET\\.NET_ALL_GITHUB\\COFFEESHOP_CREATE_WEBAPI\\CoffeeShop_All_Create_WebAPI\\Models\\BillsModel.cs",
+              "RelativeToolTip": "Models\\BillsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:40:48.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
